@@ -6,7 +6,7 @@
  - Create user account
  - Signup for the correct Git Classroom
  - Add your name and github handle to the credits section of the main Readme
- - CHnGE this LINE through GtHub to fx typoz
+ - Change this line through GtHub to fix typing
    - Commit directly to the `master` branch   
 
 ### Installing and setting up your Python Environment
