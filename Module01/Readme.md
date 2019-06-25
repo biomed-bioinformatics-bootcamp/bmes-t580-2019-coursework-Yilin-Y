@@ -6,7 +6,7 @@
  - Create user account
  - Signup for the correct Git Classroom
  - Add your name and github handle to the credits section of the main Readme
- - Change this line through GtHub to fix typing
+ - Change this line through GtHub to fix typo
    - Commit directly to the `master` branch   
 
 ### Installing and setting up your Python Environment
@@ -21,6 +21,9 @@
    - Take a screenshot of the working code.
    - Adjust the `Module01\Readme.md` so it properly displays your screenshot.  
    - Upload a screenshot of the running Hello World program to BBLearn for your "Assignment".
+
+
+
 
 ## Rubric
 
