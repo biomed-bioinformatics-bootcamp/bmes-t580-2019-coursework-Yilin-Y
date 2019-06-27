@@ -36,9 +36,9 @@ the screenshot of the guess my primer game:
 ![the screenshot of app result](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module02/guess_my_primer_result.png?raw=true)
 
 The resources links:
-1. [I'm an inline-style link](https://stackoverflow.com/questions/35618557/finding-the-number-of-matching-letters-in-two-different-string-at-the-same-indic)
-2. [I'm an inline-style link](https://www.biosyn.com/faq/what-is-an-oligo-or-oligonucleotide.aspx 'What is an oligo or oligonucleotide?')
-3. [I'm an inline-style link](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+1. [Finding the number of matching letters in two different string at the same indices](https://stackoverflow.com/questions/35618557/finding-the-number-of-matching-letters-in-two-different-string-at-the-same-indic)
+2. [What is an oligo or oligonucleotide?](https://www.biosyn.com/faq/what-is-an-oligo-or-oligonucleotide.aspx 'What is an oligo or oligonucleotide?')
+3. [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 
 
