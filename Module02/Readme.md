@@ -32,6 +32,9 @@
   - Add links to any resources used. This includes results of google-searches, Stack-Overflow posts, blog-posts, etc.
 3. Add a link to the repo to BBLearn as your "Assignment".
 
+![the screenshot of app result] (https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module02/guess_my_primer_result.png?raw=true)
+
+
 ### Guess A Primer
 
 Dozens of molecular biology techniques use oligigonucleotide primers as fundemental tools to answer bioligical questions.
