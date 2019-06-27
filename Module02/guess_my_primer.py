@@ -21,7 +21,7 @@ for i in range (0,5):
     the_primer +=random.choice(DNA)
 
 #set up the initial values
-guess = -1
+guess = 'NNNNN'
 
 
 # asking the users' name to begin the guess game
@@ -53,7 +53,7 @@ while guess != the_primer:
             if the_primer[q] == guess[q]:
                 count = count+1
         # print('Your guess of ' + guess + ' was incorrect.' + the number of correct letters is + count)
-        print('Nope {}. Your guess {} is incorrect. The number of correct letters is {}.'.format(name, guess,count))
+        print('Sorry {}. Your guess {} is incorrect. The number of correct letters is {}. Play again? '.format(name, guess,count))
     else:
         print('Excellent work {}! you win! The target DNA sequence is {}!'.format(name, guess))
 
