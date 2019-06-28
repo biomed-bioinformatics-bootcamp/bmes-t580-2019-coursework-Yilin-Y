@@ -35,7 +35,8 @@
 3. Add a link to the repo to BBLearn as your "Assignment".
 
 The screenshot of the guess my primer game:
-![The screenshot of assignment result(guess_my_primer)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module02/guess_my_primer_result.png?raw=true)
+![The screenshot of assignment result(guess_my_primer)]
+(https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module02/guess_my_primer_result.png?raw=true)
 
 The resources links:
 1. [Finding the number of matching letters in two different string at the same indices](https://stackoverflow.com/questions/35618557/finding-the-number-of-matching-letters-in-two-different-string-at-the-same-indic)
