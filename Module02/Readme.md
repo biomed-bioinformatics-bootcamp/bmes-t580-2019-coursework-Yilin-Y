@@ -20,8 +20,10 @@
 1. Complete the Guess that number assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you playing the game
+  
+  
  The screenshot of the guess the number game (pre-class):
- ![The screenshot of the pre-class app result(guess_the_number)] (https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module02/guess_the_number(pre-class_code).png?raw=true)
+ ![The screenshot of the pre-class app result(guess_the_number)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module02/guess_the_number(pre-class_code).png?raw=true)
  
 ## Assignment (due 6/30/19)
 
@@ -35,8 +37,7 @@
 3. Add a link to the repo to BBLearn as your "Assignment".
 
 The screenshot of the guess my primer game:
-![The screenshot of assignment result(guess_my_primer)]
-(https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module02/guess_my_primer_result.png?raw=true)
+![The screenshot of assignment result(guess_my_primer)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module02/guess_my_primer_result.png?raw=true)
 
 The resources links:
 1. [Finding the number of matching letters in two different string at the same indices](https://stackoverflow.com/questions/35618557/finding-the-number-of-matching-letters-in-two-different-string-at-the-same-indic)
