@@ -20,8 +20,8 @@
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
 
-The screenshots of the pre-class app result(Birthday_app)
-![The screenshots of the pre-class app result(Birthday_app)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module03/Birthday_app_result.png?raw=true)
+The screenshot of the pre-class app result(Birthday_app):
+![The screenshot of the pre-class app result(Birthday_app)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module03/Birthday_app_result.png?raw=true)
  
 ## Assignment (due 7/3/19)
 
@@ -35,8 +35,8 @@ The screenshots of the pre-class app result(Birthday_app)
 4. Add a link to the repo to BBLearn as your "Assignment".
 
 
-The screenshots of the pre-class app result(Birthday_app):
-![The screenshots of the pre-class app result(Birthday_app)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module03/pregnancy_wheel_result.png?raw=true)
+The screenshot of the in-class app result(pregnancy_wheel):
+![The screenshot of the in-class app (pregnancy_wheel)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module03/pregnancy_wheel_result.png?raw=true)
 
 The resources links:
 1. [Estimated Date of Delivery (EDD) Pregnancy Calculator](https://reference.medscape.com/calculator/estimated-delivery-date-pregnancy)
