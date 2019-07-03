@@ -19,6 +19,7 @@
 1. Complete the [Birthday App](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/03_birthday) assignment from PJS .
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
+![The screenshots of the pre-class app result(Birthday_app)] (https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module03/Birthday_app_result.png?raw=true)
  
 ## Assignment (due 7/3/19)
 
@@ -29,6 +30,12 @@
   - Check-in and Push a screenshot of you using the pregnancy_wheel.py tool.
   - Place the screenshot in this Readme.md file so it properly displays.
   - Add links to any resources used. This includes results of google-searches, Stack-Overflow posts, blog-posts, etc.
+
+![The screenshots of the pre-class app result(Birthday_app)] (https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module03/pregnancy_wheel_result.png?raw=true)
+
+The resources links:
+1. [Estimated Date of Delivery (EDD) Pregnancy Calculator] (https://reference.medscape.com/calculator/estimated-delivery-date-pregnancy)
+
 4. Add a link to the repo to BBLearn as your "Assignment".
 
 ### Pregnancy Wheel
