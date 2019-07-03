@@ -30,8 +30,8 @@ print(lmp)
 orig_today_date = datetime.date.today() # find what date is it today
 #It is not need to replace the year into lmp's year because the year do impact the calculation of the gestational age
 # today_date = datetime.date(lmp.year, orig_today_date.month, orig_today_date.day)
-dt = orig_today_date - lmp
-gestational_week = dt.days/7
+dt = orig_today_date - lmp # obtain the gestational ages
+gestational_week = dt.days/7 # obtain the gestational ages in week
 
 print ('Your estimated gestational age is {} days'.format(dt.days))
 print('Your estimated gestational age in week is {}'.format(gestational_week))
@@ -39,12 +39,13 @@ print('Your estimated gestational age in week is {}'.format(gestational_week))
 
 lmp_day = lmp
 
-gest_length = datetime.timedelta(days=281)
-gest_std = datetime.timedelta(days=13)
-exp_due_date = lmp_day + gest_length
-min_due_date = exp_due_date - gest_std
-max_due_date = exp_due_date + gest_std
+gest_length = datetime.timedelta(days=281) # the average delivery days
+gest_std = datetime.timedelta(days=13) # the standard deviation
+exp_due_date = lmp_day + gest_length # obtain the expected delivery date
+min_due_date = exp_due_date - gest_std # get the earliest delivery date
+max_due_date = exp_due_date + gest_std # get the latest delivery date
 
+# print the results which for the expected delivery date,the earliest delivery date and the latest delivery date
 print('Your expected delivery date is ', exp_due_date.strftime('%a %b %d %Y'))
 print('But it may be as early as', min_due_date.strftime('%m/%d/%Y'))
 print('Or as late as', max_due_date.strftime('%m/%d/%Y'))
