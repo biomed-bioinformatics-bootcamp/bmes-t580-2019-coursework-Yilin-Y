@@ -12,7 +12,7 @@ def main():
 
     print_the_header()
 
-    code = input('What zip code do you want the weather for (91201)? ')
+    code = input('What zip code do you want the weather for (19104)? ')
     # asking the input of the zip code to obtain the target location
 
     html = get_html_from_web(code)
@@ -54,18 +54,18 @@ def get_weather_from_html(html): # get the information from the website and add 
     soup = bs4.BeautifulSoup(html, 'html.parser')
     loc = soup.find(class_='region-content-header').find('h1').get_text()
     condition = soup.find(class_='condition-icon').get_text() # obtain the conditions from the soup
-    temp = soup.find(class_='wu-unit-temperature').find(class_='wu-value').get_text()# obtain the temperature from the soup
+    temperature = soup.find(class_='wu-unit-temperature').find(class_='wu-value').get_text()# obtain the temperature from the soup
     scale = soup.find(class_='wu-unit-temperature').find(class_='wu-label').get_text()
 
     loc = cleanup_text(loc) # geting the loaction
     loc = find_city_and_state_from_location(loc)
     condition = cleanup_text(condition)
-    temp = cleanup_text(temp)
+    temperature = cleanup_text(temperature)
     scale = cleanup_text(scale)
 
     # print(condition, temp, scale, loc)
     # return condition, temp, scale, loc
-    report = WeatherReport(cond=condition, temp=temp, scale=scale, loc=loc)
+    report = WeatherReport(cond=condition, temp=temperature, scale=scale, loc=loc)
     return report
 
 
