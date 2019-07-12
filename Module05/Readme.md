@@ -18,6 +18,9 @@
 1. Complete the [Weather Client](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/05_weather_client) assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
+
+The screenshot of the pre-class app result(Weather Client App):
+![The screenshot of the pre-class app result(Weather Client App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module05/Screenshot_Weather.png?raw=true)
  
 ## Assignment (due 7/10/19)
 
