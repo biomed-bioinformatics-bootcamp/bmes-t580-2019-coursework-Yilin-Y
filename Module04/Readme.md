@@ -22,8 +22,8 @@
   - Check-in and Push a screenshot of you running the code
   - Check-in your journal file.
 
-The screenshot of the pre-class app result(Birthday_app):
-![The screenshot of the pre-class app result(Birthday_app)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module04/ScreenShot_Journal_App.png?raw=true)
+The screenshot of the pre-class app result(Journal App):
+![The screenshot of the pre-class app result(Journal App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module04/ScreenShot_Journal_App.png?raw=true)
 
  
 ## Assignment (due 7/7/19)
