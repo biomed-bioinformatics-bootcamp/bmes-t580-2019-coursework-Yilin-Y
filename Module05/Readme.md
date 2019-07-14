@@ -36,6 +36,12 @@ Write a program that has the following features.
 6. Print the total count of patients that match the criteria.
 7. Outputs a new file that contains only the record of patients that match the criteria.
 
+The screenshot 1 of the in-class app result(demographic):
+![The screenshot 1 of the in-class app result(demographic)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module05/Screenshot_process_demographics1.png?raw=true)
+
+
+The screenshot 2 of the in-class app result(demographic):
+![The screenshot 2 of the in-class app result(demographic)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module05/Screenshot_process_demographics2.png?raw=true)
 
 ## Rubric
 
