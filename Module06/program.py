@@ -1,3 +1,4 @@
+# this the the program with the users' interface
 import time
 # import the time module
 import random
