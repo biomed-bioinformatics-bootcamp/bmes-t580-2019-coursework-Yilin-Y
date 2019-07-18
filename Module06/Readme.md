@@ -17,6 +17,10 @@
 1. Complete the [Wizard Battle](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/07_wizard_battle) assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
+
+The screenshot of the pre-class app result(Wizard Battle App):
+![The screenshot of the pre-class app result(Wizard Battle App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module06/wizarad_screenshot.png?raw=true)
+
  
 ## Assignment (due 7/14/19)
 
