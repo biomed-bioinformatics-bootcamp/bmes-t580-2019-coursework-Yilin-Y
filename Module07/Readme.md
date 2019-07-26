@@ -12,7 +12,10 @@
 1. Complete the [LOLCat Factory](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/06_lolcat_factory) assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
- 
+
+The screenshot of the pre-class app result(LOLCat Factory App):
+![The screenshot of the pre-class app result(LOLCat Factory App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module07/Screenshot_LOLCat_Factory.png?raw=true)
+
 ## Assignment (due 7/17/19)
 
 Collecting a large directory of diverse images is an important first step in image processing tasks.
