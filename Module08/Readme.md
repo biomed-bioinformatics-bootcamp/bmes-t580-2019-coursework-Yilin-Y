@@ -26,7 +26,7 @@ The screenshot of the pre-class app result(File Searcher App):
 
 
 The screenshot of the pre-class app result(action program which is the factorial calculation):
-![The screenshot of the pre-class app result(action program)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module08/screenshot_action.png?raw=true）
+![The screenshot of the pre-class app result(action program)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module08/screenshot_action.png?raw=true） 
 
 ## Assignment (due 7/21/19)
 
