@@ -18,7 +18,16 @@
 1. Complete the [File Searcher](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/08_file_searcher) assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
- 
+
+The screenshots for the PreClass Assignment:
+
+The screenshot of the pre-class app result(File Searcher App):
+![The screenshot of the pre-class app result(File Searcher App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module08/screenshot_file.search.progarm.png?raw=true）
+
+
+The screenshot of the pre-class app result(action program which is the factorial calculation):
+![The screenshot of the pre-class app result(action program)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module08/screenshot_action.png?raw=true）
+
 ## Assignment (due 7/21/19)
 
 The Jupyter Notebook and Jupyter Lab systems have become the industry standard the data science community. 
