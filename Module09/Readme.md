@@ -20,12 +20,14 @@
   - Check-in and Push a screenshot of you running the code
 
 The screenshot1 of the pre-class app result(Real Estate Analysis):
-![The screenshot1 of the pre-class app result(Wizard Battle App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module09/Real_Estate_Analysis_app_part1.png?raw=true)
+![The screenshot1 of the pre-class app result(Real Estate Analysis)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module09/Real_Estate_Analysis_app_part1.png?raw=true)
 
 The screenshot2 of the pre-class app result(Real Estate Analysis):
-![The screenshot2 of the pre-class app result(Wizard Battle App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module09/Real_Estate_Analysis_app_part2.png?raw=true)
+![The screenshot2 of the pre-class app result(Real Estate Analysis)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module09/Real_Estate_Analysis_app_part2.png?raw=true)
 
- 
+The screenshot of the pre-class homework result of the concept_dicts code:
+![The screenshot2 of the pre-class homework result(concept_dicts code)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module09/ScreenShot_concept_dicts.png?raw=true)
+
 ## Assignment (due 7/24/19)
 
 Pandas has rapidly become the go-to Swiss Army knife of python-based data scientists.
