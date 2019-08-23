@@ -18,6 +18,13 @@
 1. Complete the [Real Estate Analysis](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/09_real_estate_analyzer) assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
+
+The screenshot1 of the pre-class app result(Real Estate Analysis):
+![The screenshot1 of the pre-class app result(Wizard Battle App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module09/Real_Estate_Analysis_app_part1.png?raw=true)
+
+The screenshot2 of the pre-class app result(Real Estate Analysis):
+![The screenshot2 of the pre-class app result(Wizard Battle App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module09/Real_Estate_Analysis_app_part2.png?raw=true)
+
  
 ## Assignment (due 7/24/19)
 
