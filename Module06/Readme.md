@@ -34,6 +34,16 @@ Write a program that has the following features.
 5. It writes the *translated* amino acid sequences to the file. 
 6. It prints summary information about how many sequences it processed and how many ORFs it found.
 
+The screenshot of the in-class app result(part 1 of the summary information App):
+![The screenshot of the in-class app result(summary information App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module06/ScreenShot_of_inclass_coding1.png?raw=true)
+
+The screenshot of the in-class app result(part 2 of the summary information App):
+![The screenshot of the in-class app result(summary information App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module06/ScreenShot_of_inclass_coding2.png?raw=true)
+
+The screenshot of the in-class app result(part 3 of the summary information App):
+![The screenshot of the in-class app result(part 3 of the summary information App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module06/ScreenShot_of_inclass_coding3.png?raw=true)
+
+
 ## Rubric
 
 ### PJS Grade:
