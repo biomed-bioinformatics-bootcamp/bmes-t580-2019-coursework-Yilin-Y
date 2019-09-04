@@ -40,6 +40,10 @@ Kidney,nephron histology
 ...
 ```
 
+The screenshot (just part 1 as an example) of the in-class app result(Histology_Image_Search App):
+![The screenshot of the in-class app result(Histology_Image_Search App)](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-Yilin-Y/blob/master/Module07/ScreenShot_Histology_Image_Search1.png?raw=true)
+
+
 
 
 ## Rubric
